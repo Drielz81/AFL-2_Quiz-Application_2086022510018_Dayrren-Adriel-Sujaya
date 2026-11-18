@@ -1,0 +1,112 @@
+[
+  {
+    "id": "q1",
+    "text": "Apa yang dimaksud dengan anggaran pribadi?",
+    "options": [
+      "Daftar aset perusahaan",
+      "Rencana pemasukan dan pengeluaran pribadi",
+      "Catatan harga saham",
+      "Daftar pinjaman bank"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "id": "q2",
+    "text": "Jika pemasukan Rp2.000.000 dan pengeluaran Rp1.500.000, berapa sisa uang?",
+    "options": [
+      "Rp250.000",
+      "Rp400.000",
+      "Rp500.000",
+      "Rp750.000"
+    ],
+    "correctOptionIndex": 2
+  },
+  {
+    "id": "q3",
+    "text": "Dana darurat sebaiknya digunakan untuk?",
+    "options": [
+      "Belanja hiburan rutin",
+      "Kebutuhan mendadak dan tidak terencana",
+      "Membeli barang tren",
+      "Membayar langganan hiburan"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "id": "q4",
+    "text": "Apa arti diversifikasi dalam investasi?",
+    "options": [
+      "Menempatkan seluruh dana pada satu aset",
+      "Menyebar dana ke beberapa jenis aset",
+      "Menghindari pencatatan keuangan",
+      "Menjual semua aset sekaligus"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "id": "q5",
+    "text": "Bunga sederhana dihitung berdasarkan?",
+    "options": [
+      "Pokok awal saja",
+      "Bunga yang terus berbunga",
+      "Nilai tukar mata uang",
+      "Harga pasar harian"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "id": "q6",
+    "text": "Inflasi adalah kondisi ketika?",
+    "options": [
+      "Harga barang secara umum naik",
+      "Semua harga selalu turun",
+      "Nilai produksi berhenti",
+      "Pajak dihapuskan"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "id": "q7",
+    "text": "Manakah contoh aset?",
+    "options": [
+      "Tagihan yang belum dibayar",
+      "Pinjaman konsumtif",
+      "Tabungan di rekening",
+      "Denda keterlambatan"
+    ],
+    "correctOptionIndex": 2
+  },
+  {
+    "id": "q8",
+    "text": "Tujuan utama mencatat pengeluaran adalah?",
+    "options": [
+      "Menambah jumlah belanja",
+      "Mengetahui ke mana uang digunakan",
+      "Menghindari semua bentuk pajak",
+      "Meningkatkan harga barang"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "id": "q9",
+    "text": "Jika menabung Rp100.000 setiap bulan selama 6 bulan tanpa bunga, total tabungan adalah?",
+    "options": [
+      "Rp500.000",
+      "Rp550.000",
+      "Rp600.000",
+      "Rp650.000"
+    ],
+    "correctOptionIndex": 2
+  },
+  {
+    "id": "q10",
+    "text": "Apa yang dimaksud dengan risiko investasi?",
+    "options": [
+      "Kepastian memperoleh keuntungan",
+      "Kemungkinan hasil investasi berbeda dari harapan",
+      "Biaya untuk membuka rekening",
+      "Jumlah uang yang ditabung"
+    ],
+    "correctOptionIndex": 1
+  }
+]

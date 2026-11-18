@@ -1,0 +1,112 @@
+[
+    {
+        "id": "q1",
+        "text": "Ibu kota Indonesia adalah?",
+        "options": [
+            "Bandung",
+            "Jakarta",
+            "Surabaya",
+            "Medan"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "id": "q2",
+        "text": "Planet terbesar dalam tata surya adalah?",
+        "options": [
+            "Bumi",
+            "Mars",
+            "Jupiter",
+            "Venus"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "id": "q3",
+        "text": "Benua terbesar di dunia adalah?",
+        "options": [
+            "Afrika",
+            "Asia",
+            "Eropa",
+            "Australia"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "id": "q4",
+        "text": "Bahasa resmi negara Brasil adalah?",
+        "options": [
+            "Spanyol",
+            "Portugis",
+            "Inggris",
+            "Prancis"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "id": "q5",
+        "text": "Hewan yang dikenal sebagai mamalia terbesar di dunia adalah?",
+        "options": [
+            "Gajah Afrika",
+            "Paus biru",
+            "Jerapah",
+            "Hiu paus"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "id": "q6",
+        "text": "Samudra terluas di dunia adalah?",
+        "options": [
+            "Atlantik",
+            "Hindia",
+            "Arktik",
+            "Pasifik"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "id": "q7",
+        "text": "Hari Kemerdekaan Indonesia diperingati setiap tanggal?",
+        "options": [
+            "1 Juni",
+            "17 Agustus",
+            "10 November",
+            "28 Oktober"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "id": "q8",
+        "text": "Alat untuk mengukur suhu disebut?",
+        "options": [
+            "Barometer",
+            "Termometer",
+            "Higrometer",
+            "Anemometer"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "id": "q9",
+        "text": "Warna yang dihasilkan dari pencampuran merah dan kuning adalah?",
+        "options": [
+            "Hijau",
+            "Ungu",
+            "Oranye",
+            "Biru"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "id": "q10",
+        "text": "Menara Eiffel berada di negara?",
+        "options": [
+            "Italia",
+            "Jerman",
+            "Prancis",
+            "Belanda"
+        ],
+        "correctOptionIndex": 2
+    }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "q1",
+    "text": "Satuan SI untuk gaya adalah?",
+    "options": [
+      "Joule",
+      "Newton",
+      "Watt",
+      "Pascal"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "id": "q2",
+    "text": "Alat untuk mengukur kuat arus listrik adalah?",
+    "options": [
+      "Voltmeter",
+      "Amperemeter",
+      "Ohmmeter",
+      "Termometer"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "id": "q3",
+    "text": "Kecepatan merupakan hasil bagi antara?",
+    "options": [
+      "Massa dan volume",
+      "Jarak dan waktu",
+      "Gaya dan luas",
+      "Energi dan waktu"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "id": "q4",
+    "text": "Percepatan gravitasi rata-rata di permukaan Bumi mendekati?",
+    "options": [
+      "1,8 m/s²",
+      "4,9 m/s²",
+      "9,8 m/s²",
+      "18 m/s²"
+    ],
+    "correctOptionIndex": 2
+  },
+  {
+    "id": "q5",
+    "text": "Energi yang dimiliki benda karena geraknya disebut energi?",
+    "options": [
+      "Potensial",
+      "Kimia",
+      "Kinetik",
+      "Nuklir"
+    ],
+    "correctOptionIndex": 2
+  },
+  {
+    "id": "q6",
+    "text": "Perubahan wujud dari cair menjadi gas disebut?",
+    "options": [
+      "Membeku",
+      "Menguap",
+      "Mengembun",
+      "Menyublim"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "id": "q7",
+    "text": "Bunyi tidak dapat merambat melalui?",
+    "options": [
+      "Udara",
+      "Air",
+      "Besi",
+      "Ruang hampa"
+    ],
+    "correctOptionIndex": 3
+  },
+  {
+    "id": "q8",
+    "text": "Hukum Newton I dikenal juga sebagai hukum?",
+    "options": [
+      "Aksi-reaksi",
+      "Gravitasi",
+      "Kelembaman",
+      "Percepatan"
+    ],
+    "correctOptionIndex": 2
+  },
+  {
+    "id": "q9",
+    "text": "Satuan SI untuk energi adalah?",
+    "options": [
+      "Watt",
+      "Joule",
+      "Newton",
+      "Ampere"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "id": "q10",
+    "text": "Cahaya merambat paling cepat melalui?",
+    "options": [
+      "Air",
+      "Kaca",
+      "Udara",
+      "Ruang hampa"
+    ],
+    "correctOptionIndex": 3
+  }
+]

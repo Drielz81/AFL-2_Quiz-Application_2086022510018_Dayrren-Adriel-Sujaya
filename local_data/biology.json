@@ -1,0 +1,112 @@
+[
+  {
+    "id": "q1",
+    "text": "Organel sel yang menjadi tempat utama respirasi sel adalah?",
+    "options": [
+      "Ribosom",
+      "Mitokondria",
+      "Lisosom",
+      "Badan Golgi"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "id": "q2",
+    "text": "Proses tumbuhan membuat makanan dengan bantuan cahaya disebut?",
+    "options": [
+      "Transpirasi",
+      "Fotosintesis",
+      "Fermentasi",
+      "Respirasi"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "id": "q3",
+    "text": "Zat hijau daun yang menangkap energi cahaya adalah?",
+    "options": [
+      "Hemoglobin",
+      "Klorofil",
+      "Melanin",
+      "Keratin"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "id": "q4",
+    "text": "Bagian sel yang mengatur aktivitas sel dan menyimpan sebagian besar materi genetik adalah?",
+    "options": [
+      "Nukleus",
+      "Membran sel",
+      "Sitoplasma",
+      "Vakuola"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "id": "q5",
+    "text": "Unit struktural dan fungsional terkecil makhluk hidup adalah?",
+    "options": [
+      "Jaringan",
+      "Organ",
+      "Sel",
+      "Sistem organ"
+    ],
+    "correctOptionIndex": 2
+  },
+  {
+    "id": "q6",
+    "text": "Organ manusia yang berfungsi memompa darah ke seluruh tubuh adalah?",
+    "options": [
+      "Paru-paru",
+      "Ginjal",
+      "Jantung",
+      "Hati"
+    ],
+    "correctOptionIndex": 2
+  },
+  {
+    "id": "q7",
+    "text": "Pembawa informasi genetik pada makhluk hidup adalah?",
+    "options": [
+      "DNA",
+      "Glukosa",
+      "Lemak",
+      "Air"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "id": "q8",
+    "text": "Kelompok hewan yang memiliki tulang belakang disebut?",
+    "options": [
+      "Invertebrata",
+      "Vertebrata",
+      "Arthropoda",
+      "Moluska"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "id": "q9",
+    "text": "Tempat pertukaran oksigen dan karbon dioksida di paru-paru adalah?",
+    "options": [
+      "Trakea",
+      "Bronkus",
+      "Alveolus",
+      "Diafragma"
+    ],
+    "correctOptionIndex": 2
+  },
+  {
+    "id": "q10",
+    "text": "Hubungan antara lebah dan bunga yang saling menguntungkan disebut?",
+    "options": [
+      "Parasitisme",
+      "Kompetisi",
+      "Mutualisme",
+      "Komensalisme"
+    ],
+    "correctOptionIndex": 2
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "q1",
+    "text": "Hasil dari 12 × 8 adalah?",
+    "options": [
+      "86",
+      "92",
+      "96",
+      "108"
+    ],
+    "correctOptionIndex": 2
+  },
+  {
+    "id": "q2",
+    "text": "Jika x + 7 = 15, nilai x adalah?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correctOptionIndex": 2
+  },
+  {
+    "id": "q3",
+    "text": "Hasil dari 3² + 4² adalah?",
+    "options": [
+      "12",
+      "25",
+      "36",
+      "49"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "id": "q4",
+    "text": "Luas persegi dengan panjang sisi 6 cm adalah?",
+    "options": [
+      "12 cm²",
+      "24 cm²",
+      "30 cm²",
+      "36 cm²"
+    ],
+    "correctOptionIndex": 3
+  },
+  {
+    "id": "q5",
+    "text": "Nilai dari ¾ + ¼ adalah?",
+    "options": [
+      "½",
+      "1",
+      "1¼",
+      "2"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "id": "q6",
+    "text": "Akar kuadrat dari 144 adalah?",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "14"
+    ],
+    "correctOptionIndex": 2
+  },
+  {
+    "id": "q7",
+    "text": "Rata-rata dari 4, 6, 8, dan 10 adalah?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "id": "q8",
+    "text": "Besar sudut pada garis lurus adalah?",
+    "options": [
+      "90°",
+      "120°",
+      "180°",
+      "360°"
+    ],
+    "correctOptionIndex": 2
+  },
+  {
+    "id": "q9",
+    "text": "Hasil dari 20% × 150 adalah?",
+    "options": [
+      "20",
+      "25",
+      "30",
+      "35"
+    ],
+    "correctOptionIndex": 2
+  },
+  {
+    "id": "q10",
+    "text": "Jika 2x = 18, nilai x adalah?",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correctOptionIndex": 2
+  }
+]
